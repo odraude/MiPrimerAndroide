@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiPrimerAndroide</string>
+    <string name="main_bienvenida">Bienvenido</string>
+    <string name="main_entrar">Entrar</string>
+</resources>
